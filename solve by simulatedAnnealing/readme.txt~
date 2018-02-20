@@ -3,7 +3,7 @@
   2)如果编译成功会在bin/目录下生成可执行二进制文件"cdn"；
   3)使用如下格式调用并调试程序"./cdn 
 	举例子：运行进入bin文件中，然后
-        ./cdn ../case_example/case0.txt ../result/result.txt
+        ./cdn ../case_example/case0.txt 
 /xxx/topo.txt  /xxx/result.txt"，其中topo.txt是输入文件，result.txt是输出文件;
   4)调试成功后到竞赛官网提交SDK-gcc/目录下的压缩包"cdn.tar.gz"，稍后查询成绩。
 
